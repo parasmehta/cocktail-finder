@@ -29,7 +29,7 @@ Each entry in the file is a cocktail containing an `id`, a `name` and an array o
 
 We have provided starter code in the `server.js` file. The `getAllDrinks()` function returns a **Promise** with an array of all cocktails in the database.
 
-`server.test.js` contains unit tests to test your implementation. We use (jest)[https://jestjs.io/docs/en/getting-started] for this.
+`server.test.js` contains unit tests to test your implementation. We use [jest](https://jestjs.io/docs/en/getting-started) for this.
 
 # Getting started
 
@@ -55,8 +55,8 @@ Write a function to retrieve all the cocktails that can be prepared using a give
 - feel free to add comments on the code if you want to explain something or on a place that could be improved
   - you can also add comments at the bottom of this document
 - feel free to add more tests to check the robustness of your solution
-- in case of questions, open an issue in the repository or send an email to paras.mehta@lofino.de
-- when you're done send an email to paras.mehta@lofino.de
+- in case of questions, open an issue in the repository or send an email to paras.mehta@lofino.de or tobias.hann@lofino.de
+- when you're done send an email to paras.mehta@lofino.de or tobias.hann@lofino.de
 
 # Your Notes
 
