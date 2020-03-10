@@ -41,11 +41,19 @@ We have provided starter code in the `server.js` file. The `getAllDrinks()` func
   npm run test
   ```
 
-# Your task
+# Your tasks
 
-Write a function to retrieve all the cocktails that can be prepared using a given set of ingredients. Use the provided function `getAllDrinks()` to get all the cocktails from the database and complete the implementation of the `getMatchingDrinks()` function.
+1. Write a function to retrieve all the cocktails that can be prepared using a given set of ingredients. Use the provided function `getAllDrinks()` to get all the cocktails from the database and complete the implementation of the `getMatchingDrinks()` function.
 
-\* Note Please remember to call the provided `getAllDrinks()` function in your implementation of `getMatchingDrinks()`
+---
+
+**NOTE**
+
+Remember to call the provided `getAllDrinks()` function in your implementation of `getMatchingDrinks()`
+
+---
+
+2. Review this open [merge request](https://github.com/parasmehta/cocktail-finder/pull/2) for a new feature. While reviewing, your focus should be on checking code quality and adherence to best practices.
 
 # What we expect
 
