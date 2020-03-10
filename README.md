@@ -4,7 +4,7 @@ Your task is to complete the implementation of a Cocktail Finder service :-)
 
 # Prerequisites
 
-- an installation of Node.js and npm
+- an installation of Node.js (10+) and npm
 - a GitHub account
 - your favorite IDE
 
@@ -29,16 +29,16 @@ Each entry in the file is a cocktail containing an `id`, a `name` and an array o
 
 We have provided starter code in the `server.js` file. The `getAllDrinks()` function returns a **Promise** with an array of all cocktails in the database.
 
-`server.test.js` contains unit tests to test your implementation. We use [jest](https://jestjs.io/docs/en/getting-started) for this.
+`server.test.js` contains unit tests to test your implementation. We use [jest](https://jestjs.io/docs/en/getting-started) for this. Feel free to add more tests if you want.
 
 # Getting started
 
 - run `npm install` inside the project folder to install dependencies
-- run `npm run test` to run the tests
+- run `npm run test` to run the tests or `npm run test -- --watch` to watch for changes of the file
   ```bash
   cd cocktail-finder
   npm install
-  npm run test
+  npm run test -- --watch
   ```
 
 # Your task

@@ -10,16 +10,14 @@ const db = require("./db.json");
 Returns the number of cocktails in the database
 */
 const drinksCount = () => {
-  return db.drinks.length;
+  return Promise.resolve(db.drinks.length);
 };
 
 /*
 Returns all cocktails in the database
 */
 const getAllDrinks = () => {
-  return new Promise(resolve => {
-    resolve(db.drinks);
-  });
+  return Promise.resolve(db.drinks);
 };
 
 /*
