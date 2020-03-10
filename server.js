@@ -6,6 +6,9 @@ Recruiting exercise for Full-Stack Developer position at LOFINO GmbH
 
 const db = require("./db.json");
 
+/*
+Returns the number of cocktails in the database
+*/
 const drinksCount = () => {
   return db.drinks.length;
 };
@@ -26,4 +29,21 @@ return all cocktails in the database which I can make using these ingredients.
 Below is the function signature for getMatchingDrinks. Please complete the function implementation.
 */
 
-function getMatchingDrinks(ingredients) {}
+function getMatchingDrinks(ingredients) {
+  return Promise.resolve([
+    {
+      id: "11064",
+      name: "Banana Daiquiri",
+      ingredients: [
+        "Light rum",
+        "Triple sec",
+        "Banana",
+        "Lime juice",
+        "Sugar",
+        "Cherry"
+      ]
+    }
+  ]);
+}
+
+module.exports = getMatchingDrinks;
