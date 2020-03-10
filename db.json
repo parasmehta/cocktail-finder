@@ -1,0 +1,74 @@
+{
+  "drinks": [
+    {
+      "id": "14065",
+      "name": "Zippy's Revenge",
+      "ingredients": ["Amaretto", "Rum", "Kool-Aid"]
+    },
+
+    {
+      "id": "12864",
+      "name": "Apple Cider Punch #1",
+      "ingredients": [
+        "Apple cider",
+        "Brown sugar",
+        "Lemonade",
+        "Orange juice",
+        "Cloves",
+        "Allspice",
+        "Nutmeg",
+        "Cinnamon"
+      ]
+    },
+
+    {
+      "id": "12190",
+      "name": "Sherry Flip",
+      "ingredients": [
+        "Sherry",
+        "Light cream",
+        "Powdered sugar",
+        "Egg",
+        "Nutmeg"
+      ]
+    },
+
+    {
+      "id": "11064",
+      "name": "Banana Daiquiri",
+      "ingredients": [
+        "Light rum",
+        "Triple sec",
+        "Banana",
+        "Lime juice",
+        "Sugar",
+        "Cherry"
+      ]
+    },
+
+    {
+      "id": "178316",
+      "name": "Honey Bee",
+      "ingredients": ["White Rum", "Honey", "Lemon Juice"]
+    },
+
+    {
+      "id": "11375",
+      "name": "Foxy Lady",
+      "strIngredient1": ["Amaretto", "Creme de Cacao", "Light cream"]
+    },
+
+    {
+      "id": "11120",
+      "name": "Bluebird",
+      "strIngredient1": [
+        "Gin",
+        "Triple sec",
+        "Blue Curacao",
+        "Bitters",
+        "Maraschino cherry",
+        "Lemon peel"
+      ]
+    }
+  ]
+}
