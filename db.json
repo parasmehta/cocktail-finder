@@ -55,13 +55,13 @@
     {
       "id": "11375",
       "name": "Foxy Lady",
-      "strIngredient1": ["Amaretto", "Creme de Cacao", "Light cream"]
+      "ingredients": ["Amaretto", "Creme de Cacao", "Light cream"]
     },
 
     {
       "id": "11120",
       "name": "Bluebird",
-      "strIngredient1": [
+      "ingredients": [
         "Gin",
         "Triple sec",
         "Blue Curacao",
