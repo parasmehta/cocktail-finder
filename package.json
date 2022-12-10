@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/parasmehta/cocktail-finder#readme",
   "devDependencies": {
-    "jest": "^25.1.0"
+    "jest": "^29.3.1"
   },
   "jest": {
     "verbose": true
